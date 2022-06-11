@@ -3293,10 +3293,10 @@ pause-stream@^0.0.11:
   dependencies:
     through "~2.3"
 
-pem@^1.14.2:
-  version "1.14.4"
-  resolved "https://registry.yarnpkg.com/pem/-/pem-1.14.4.tgz#a68c70c6e751ccc5b3b5bcd7af78b0aec1177ff9"
-  integrity sha512-v8lH3NpirgiEmbOqhx0vwQTxwi0ExsiWBGYh0jYNq7K6mQuO4gI6UEFlr6fLAdv9TPXRt6GqiwE37puQdIDS8g==
+pem@^1.14.6:
+  version "1.14.6"
+  resolved "https://registry.yarnpkg.com/pem/-/pem-1.14.6.tgz#89babca3a73466fb844df70666dbf1b25eb0dc56"
+  integrity sha512-I5GKUer2PPv5qzUfxaZ6IGRkhp+357Kyv2t1JJg9vP8hGGI13qU34N2QupmggbpIZGPuudH0jn8KU5hjFpPk3g==
   dependencies:
     es6-promisify "^6.0.0"
     md5 "^2.2.1"
