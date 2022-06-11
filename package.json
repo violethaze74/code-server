@@ -94,7 +94,7 @@
     "httpolyglot": "^0.1.2",
     "js-yaml": "^4.0.0",
     "limiter": "^1.1.5",
-    "pem": "^1.14.2",
+    "pem": "^1.14.6",
     "proxy-agent": "^5.0.0",
     "qs": "6.10.3",
     "rotating-file-stream": "^3.0.0",
